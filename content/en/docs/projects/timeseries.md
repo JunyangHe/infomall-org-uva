@@ -8,7 +8,6 @@ description: >
 
 ## DL Timeseries
 
-Here is the our research abstract:
 This research strives to approve that one can study several sets of
 sequences or time series of an underlying evolution operator using a
 deep learning network. The language of geospatial time series is used
